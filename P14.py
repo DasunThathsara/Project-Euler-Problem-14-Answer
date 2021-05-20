@@ -13,4 +13,4 @@ for n in range(1,1000000):
     if t<len(l):
         t=len(l)
         w=l
-print(len(w))
+print(w[0])
